@@ -1,0 +1,4556 @@
+{
+    "fps": 25,
+    "results": [
+        {
+            "url": "8d8109f85e6a4d33acd454fbc7e04751.mp4",
+            "mode": "validation",
+            "total_frames": 2134,
+            "num_gts": 5,
+            "num_proposals": 2,
+            "proposal_actions": [
+                {
+                    "label": 7,
+                    "norm_iou": 0.07142857142857148,
+                    "norm_ioa": 0.11428571428571435,
+                    "norm_start": -1.2400000000000002,
+                    "proposal": {
+                        "start": 8,
+                        "end": 9,
+                        "score": 0.6235673749338161
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 6.76,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 8.16
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.0638297872340411,
+                    "norm_ioa": 0.11999999999999744,
+                    "norm_start": 0.8800000000000026,
+                    "proposal": {
+                        "start": 50,
+                        "end": 51,
+                        "score": 0.5499557691227293
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "摆短"
+                        ],
+                        "start_id": 50.88,
+                        "label_ids": [
+                            0
+                        ],
+                        "end_id": 51.88
+                    }
+                }
+            ]
+        },
+        {
+            "url": "e8b94965c4344764b9f0503a4ff5db95.mp4",
+            "mode": "validation",
+            "total_frames": 8917,
+            "num_gts": 36,
+            "num_proposals": 15,
+            "proposal_actions": [
+                {
+                    "label": 1,
+                    "norm_iou": 0.17241379310343477,
+                    "norm_ioa": 0.555555555555503,
+                    "norm_start": 0.8000000000000114,
+                    "proposal": {
+                        "start": 348,
+                        "end": 349,
+                        "score": 0.679377044447926
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 348.8,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 349.16
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.15789473684211314,
+                    "norm_ioa": 0.3157894736842263,
+                    "norm_start": -0.5199999999999818,
+                    "proposal": {
+                        "start": 268,
+                        "end": 269,
+                        "score": 0.6640416230782803
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "摆短"
+                        ],
+                        "start_id": 267.48,
+                        "label_ids": [
+                            0
+                        ],
+                        "end_id": 268.24
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.41935483870965967,
+                    "norm_ioa": 0.6842105263157737,
+                    "norm_start": 0.4800000000000182,
+                    "proposal": {
+                        "start": 267,
+                        "end": 268,
+                        "score": 0.6265170939626058
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "摆短"
+                        ],
+                        "start_id": 267.48,
+                        "label_ids": [
+                            0
+                        ],
+                        "end_id": 268.24
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.29629629629628657,
+                    "norm_ioa": 0.7999999999999716,
+                    "norm_start": -0.0800000000000125,
+                    "proposal": {
+                        "start": 224,
+                        "end": 225,
+                        "score": 0.6119103315086022
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "摆短"
+                        ],
+                        "start_id": 223.92,
+                        "label_ids": [
+                            0
+                        ],
+                        "end_id": 224.32
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.03030303030302965,
+                    "norm_ioa": 0.11111111111110891,
+                    "norm_start": -0.3200000000000003,
+                    "proposal": {
+                        "start": 21,
+                        "end": 22,
+                        "score": 0.6014210092809315
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 20.68,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 21.04
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.35714285714286076,
+                    "norm_ioa": 0.769230769230765,
+                    "norm_start": -0.12000000000000455,
+                    "proposal": {
+                        "start": 250,
+                        "end": 251,
+                        "score": 0.5458083656549194
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "摆短"
+                        ],
+                        "start_id": 249.88,
+                        "label_ids": [
+                            0
+                        ],
+                        "end_id": 250.4
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.35087719298245473,
+                    "norm_ioa": 0.7407407407407393,
+                    "norm_start": 0.6000000000000014,
+                    "proposal": {
+                        "start": 59,
+                        "end": 61,
+                        "score": 0.538094419369579
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 60.2,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 61.28
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.4399999999999977,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.0799999999999983,
+                    "proposal": {
+                        "start": 96,
+                        "end": 97,
+                        "score": 0.5305911100639332
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 96.08,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 96.52
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.41935483870965967,
+                    "norm_ioa": 0.6842105263157737,
+                    "norm_start": 0.4800000000000182,
+                    "proposal": {
+                        "start": 267,
+                        "end": 268,
+                        "score": 0.5263999135479378
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "摆短"
+                        ],
+                        "start_id": 267.48,
+                        "label_ids": [
+                            0
+                        ],
+                        "end_id": 268.24
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.2325581395348872,
+                    "norm_ioa": 0.35714285714286076,
+                    "norm_start": 0.5999999999999943,
+                    "proposal": {
+                        "start": 70,
+                        "end": 71,
+                        "score": 0.5215378799183618
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 70.6,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 71.72
+                    }
+                },
+                {
+                    "label": 2,
+                    "norm_iou": 0.4399999999999977,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.19999999999998863,
+                    "proposal": {
+                        "start": 198,
+                        "end": 199,
+                        "score": 0.5156733235025185
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "控制"
+                        ],
+                        "start_id": 198.2,
+                        "label_ids": [
+                            2
+                        ],
+                        "end_id": 198.64
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.1379310344827561,
+                    "norm_ioa": 0.5,
+                    "norm_start": -0.1599999999999966,
+                    "proposal": {
+                        "start": 163,
+                        "end": 164,
+                        "score": 0.5133890497425023
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 162.84,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 163.16
+                    }
+                },
+                {
+                    "label": 4,
+                    "norm_iou": 0.5199999999999818,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.4399999999999977,
+                    "proposal": {
+                        "start": 328,
+                        "end": 329,
+                        "score": 0.5117707436273952
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "劈长"
+                        ],
+                        "start_id": 328.44,
+                        "label_ids": [
+                            4
+                        ],
+                        "end_id": 328.96
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.8076923076923171,
+                    "norm_ioa": 0.9545454545454634,
+                    "norm_start": 0.1599999999999966,
+                    "proposal": {
+                        "start": 248,
+                        "end": 249,
+                        "score": 0.5105300060074879
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 248.16,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 249.04
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.2439024390243893,
+                    "norm_ioa": 0.7407407407407393,
+                    "norm_start": 0.7333333333333343,
+                    "proposal": {
+                        "start": 58,
+                        "end": 61,
+                        "score": 0.5052174079822306
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 60.2,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 61.28
+                    }
+                }
+            ]
+        },
+        {
+            "url": "abd33dcac8b940dcb18eded10bb6bb17.mp4",
+            "mode": "validation",
+            "total_frames": 8976,
+            "num_gts": 72,
+            "num_proposals": 71,
+            "proposal_actions": [
+                {
+                    "label": 2,
+                    "norm_iou": 0.5999999999999943,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.0,
+                    "proposal": {
+                        "start": 86,
+                        "end": 87,
+                        "score": 0.7448541874225174
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "控制"
+                        ],
+                        "start_id": 86.0,
+                        "label_ids": [
+                            2
+                        ],
+                        "end_id": 86.6
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.23333333333333373,
+                    "norm_ioa": 0.5833333333333308,
+                    "norm_start": -0.20000000000000284,
+                    "proposal": {
+                        "start": 78,
+                        "end": 79,
+                        "score": 0.7428351686647804
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 77.8,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 78.28
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.20588235294115434,
+                    "norm_ioa": 0.4374999999999667,
+                    "norm_start": 0.7200000000000273,
+                    "proposal": {
+                        "start": 267,
+                        "end": 268,
+                        "score": 0.7392057348827666
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 267.72,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 268.36
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.025000000000012436,
+                    "norm_ioa": 0.06250000000002776,
+                    "norm_start": 0.9599999999999795,
+                    "proposal": {
+                        "start": 296,
+                        "end": 297,
+                        "score": 0.7175368120457946
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 296.96,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 297.6
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.5999999999999943,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.20000000000000284,
+                    "proposal": {
+                        "start": 120,
+                        "end": 121,
+                        "score": 0.7051147612026518
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 120.2,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 120.8
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.5999999999999943,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.20000000000000284,
+                    "proposal": {
+                        "start": 120,
+                        "end": 121,
+                        "score": 0.6685688242147848
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 120.2,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 120.8
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.16216216216215826,
+                    "norm_ioa": 0.33333333333332676,
+                    "norm_start": 0.7600000000000051,
+                    "proposal": {
+                        "start": 121,
+                        "end": 122,
+                        "score": 0.6607444006797201
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 121.76,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 122.48
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.025000000000012436,
+                    "norm_ioa": 0.06250000000002776,
+                    "norm_start": 0.9599999999999795,
+                    "proposal": {
+                        "start": 296,
+                        "end": 297,
+                        "score": 0.6590587291703566
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 296.96,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 297.6
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.3448275862068968,
+                    "norm_ioa": 0.7142857142857143,
+                    "norm_start": 0.5999999999999996,
+                    "proposal": {
+                        "start": 10,
+                        "end": 11,
+                        "score": 0.6466630739051402
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 10.6,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 11.16
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.2666666666666663,
+                    "norm_ioa": 0.6153846153846122,
+                    "norm_start": -0.20000000000000284,
+                    "proposal": {
+                        "start": 61,
+                        "end": 62,
+                        "score": 0.6416596021908687
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 60.8,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 61.32
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.3571428571428354,
+                    "norm_ioa": 0.7692307692307524,
+                    "norm_start": -0.12000000000000455,
+                    "proposal": {
+                        "start": 294,
+                        "end": 295,
+                        "score": 0.6313987777970944
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 293.88,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 294.4
+                    }
+                },
+                {
+                    "label": 6,
+                    "norm_iou": 0.025000000000003998,
+                    "norm_ioa": 0.06250000000000971,
+                    "norm_start": -0.5999999999999943,
+                    "proposal": {
+                        "start": 74,
+                        "end": 75,
+                        "score": 0.623549494046187
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "挑"
+                        ],
+                        "start_id": 73.4,
+                        "label_ids": [
+                            6
+                        ],
+                        "end_id": 74.04
+                    }
+                },
+                {
+                    "label": 6,
+                    "norm_iou": 0.26470588235294085,
+                    "norm_ioa": 0.5,
+                    "norm_start": -0.35999999999999943,
+                    "proposal": {
+                        "start": 14,
+                        "end": 15,
+                        "score": 0.6222877640225923
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "挑"
+                        ],
+                        "start_id": 13.64,
+                        "label_ids": [
+                            6
+                        ],
+                        "end_id": 14.36
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.2666666666666635,
+                    "norm_ioa": 0.6153846153846237,
+                    "norm_start": -0.19999999999998863,
+                    "proposal": {
+                        "start": 291,
+                        "end": 292,
+                        "score": 0.6212945793601463
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 290.8,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 291.32
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.6800000000000068,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.3199999999999932,
+                    "proposal": {
+                        "start": 266,
+                        "end": 267,
+                        "score": 0.6204493373840398
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "摆短"
+                        ],
+                        "start_id": 266.32,
+                        "label_ids": [
+                            0
+                        ],
+                        "end_id": 267.0
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.41379310344826825,
+                    "norm_ioa": 0.75,
+                    "norm_start": 0.5200000000000102,
+                    "proposal": {
+                        "start": 246,
+                        "end": 247,
+                        "score": 0.619200256024348
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 246.52,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 247.16
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.5600000000000023,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.1599999999999966,
+                    "proposal": {
+                        "start": 125,
+                        "end": 126,
+                        "score": 0.6117180388400408
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 125.16,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 125.72
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.29032258064516203,
+                    "norm_ioa": 0.6000000000000048,
+                    "norm_start": 0.6400000000000006,
+                    "proposal": {
+                        "start": 118,
+                        "end": 119,
+                        "score": 0.6106486400230484
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 118.64,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 119.24
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.1428571428571425,
+                    "norm_ioa": 0.3333333333333333,
+                    "norm_start": 0.8000000000000007,
+                    "proposal": {
+                        "start": 16,
+                        "end": 17,
+                        "score": 0.6091840018117028
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 16.8,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 17.4
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.21212121212121407,
+                    "norm_ioa": 0.466666666666673,
+                    "norm_start": -0.3199999999999932,
+                    "proposal": {
+                        "start": 181,
+                        "end": 182,
+                        "score": 0.6067862334143758
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 180.68,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 181.28
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.05555555555556433,
+                    "norm_ioa": 0.15384615384617487,
+                    "norm_start": -0.4399999999999977,
+                    "proposal": {
+                        "start": 132,
+                        "end": 133,
+                        "score": 0.6056201895557459
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 131.56,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 132.08
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.06896551724137784,
+                    "norm_ioa": 0.10810810810810603,
+                    "norm_start": -1.3200000000000003,
+                    "proposal": {
+                        "start": 42,
+                        "end": 43,
+                        "score": 0.6052838488641776
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 40.68,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 42.16
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.759999999999998,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.20000000000000284,
+                    "proposal": {
+                        "start": 62,
+                        "end": 63,
+                        "score": 0.6049099476290346
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 62.2,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 62.96
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.11428571428571138,
+                    "norm_ioa": 0.2857142857142785,
+                    "norm_start": 0.8400000000000034,
+                    "proposal": {
+                        "start": 249,
+                        "end": 250,
+                        "score": 0.6045198897022215
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 249.84,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 250.4
+                    }
+                },
+                {
+                    "label": 6,
+                    "norm_iou": 0.12820512820512983,
+                    "norm_ioa": 0.2631578947368441,
+                    "norm_start": 0.7999999999999972,
+                    "proposal": {
+                        "start": 126,
+                        "end": 127,
+                        "score": 0.6036350527985637
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "挑"
+                        ],
+                        "start_id": 126.8,
+                        "label_ids": [
+                            6
+                        ],
+                        "end_id": 127.56
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.2432432432432422,
+                    "norm_ioa": 0.42857142857142616,
+                    "norm_start": 0.6400000000000006,
+                    "proposal": {
+                        "start": 88,
+                        "end": 89,
+                        "score": 0.6032518372537197
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 88.64,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 89.48
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.3749999999999917,
+                    "norm_ioa": 0.6315789473684151,
+                    "norm_start": 0.5200000000000102,
+                    "proposal": {
+                        "start": 186,
+                        "end": 187,
+                        "score": 0.5973099907611588
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 186.52,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 187.28
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.48148148148147174,
+                    "norm_ioa": 0.8666666666666856,
+                    "norm_start": 0.4800000000000182,
+                    "proposal": {
+                        "start": 298,
+                        "end": 299,
+                        "score": 0.5957856125856966
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 298.48,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 299.08
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.2857142857142741,
+                    "norm_ioa": 0.5,
+                    "norm_start": 0.6000000000000227,
+                    "proposal": {
+                        "start": 309,
+                        "end": 310,
+                        "score": 0.5949087838057517
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 309.6,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 310.4
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.05555555555556433,
+                    "norm_ioa": 0.15384615384617487,
+                    "norm_start": -0.4399999999999977,
+                    "proposal": {
+                        "start": 132,
+                        "end": 133,
+                        "score": 0.5937605875956704
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 131.56,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 132.08
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.10810810810810655,
+                    "norm_ioa": 0.25,
+                    "norm_start": -0.47999999999998977,
+                    "proposal": {
+                        "start": 178,
+                        "end": 179,
+                        "score": 0.5924106127743163
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 177.52,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 178.16
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.41379310344826825,
+                    "norm_ioa": 0.75,
+                    "norm_start": 0.5200000000000102,
+                    "proposal": {
+                        "start": 177,
+                        "end": 178,
+                        "score": 0.5874517011271023
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 177.52,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 178.16
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.40740740740740056,
+                    "norm_ioa": 0.8461538461538252,
+                    "norm_start": 0.5600000000000023,
+                    "proposal": {
+                        "start": 131,
+                        "end": 132,
+                        "score": 0.5872720364243624
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 131.56,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 132.08
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.12121212121211926,
+                    "norm_ioa": 0.3333333333333333,
+                    "norm_start": 0.8400000000000034,
+                    "proposal": {
+                        "start": 84,
+                        "end": 85,
+                        "score": 0.5829183777942685
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 84.84,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 85.32
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.29032258064517014,
+                    "norm_ioa": 0.6,
+                    "norm_start": -0.2400000000000091,
+                    "proposal": {
+                        "start": 227,
+                        "end": 228,
+                        "score": 0.5825705267639472
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 226.76,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 227.36
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.3749999999999917,
+                    "norm_ioa": 0.6315789473684151,
+                    "norm_start": 0.5200000000000102,
+                    "proposal": {
+                        "start": 186,
+                        "end": 187,
+                        "score": 0.5809019614963363
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 186.52,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 187.28
+                    }
+                },
+                {
+                    "label": 6,
+                    "norm_iou": 0.26470588235294085,
+                    "norm_ioa": 0.5,
+                    "norm_start": 0.6400000000000006,
+                    "proposal": {
+                        "start": 13,
+                        "end": 14,
+                        "score": 0.578725355356451
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "挑"
+                        ],
+                        "start_id": 13.64,
+                        "label_ids": [
+                            6
+                        ],
+                        "end_id": 14.36
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.12500000000000167,
+                    "norm_ioa": 0.2500000000000022,
+                    "norm_start": -0.6000000000000014,
+                    "proposal": {
+                        "start": 60,
+                        "end": 61,
+                        "score": 0.5675845751665858
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 59.4,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 60.2
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.5600000000000005,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.1999999999999993,
+                    "proposal": {
+                        "start": 12,
+                        "end": 13,
+                        "score": 0.5669524563279605
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 12.2,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 12.76
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.20588235294115434,
+                    "norm_ioa": 0.4374999999999667,
+                    "norm_start": 0.7200000000000273,
+                    "proposal": {
+                        "start": 267,
+                        "end": 268,
+                        "score": 0.5657041173970637
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 267.72,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 268.36
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.2857142857142741,
+                    "norm_ioa": 0.5,
+                    "norm_start": 0.6000000000000227,
+                    "proposal": {
+                        "start": 309,
+                        "end": 310,
+                        "score": 0.5646833374617075
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 309.6,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 310.4
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.02631578947369799,
+                    "norm_ioa": 0.07142857142860769,
+                    "norm_start": -0.5199999999999818,
+                    "proposal": {
+                        "start": 312,
+                        "end": 313,
+                        "score": 0.5643435824256487
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 311.48,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 312.04
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.40740740740740056,
+                    "norm_ioa": 0.8461538461538252,
+                    "norm_start": 0.5600000000000023,
+                    "proposal": {
+                        "start": 131,
+                        "end": 132,
+                        "score": 0.5632016261347925
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 131.56,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 132.08
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.18604651162790314,
+                    "norm_ioa": 0.3076923076923035,
+                    "norm_start": 0.6800000000000068,
+                    "proposal": {
+                        "start": 189,
+                        "end": 190,
+                        "score": 0.5548908519514784
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 189.68,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 190.72
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.11764705882352695,
+                    "norm_ioa": 0.3076923076923035,
+                    "norm_start": -0.35999999999999943,
+                    "proposal": {
+                        "start": 124,
+                        "end": 125,
+                        "score": 0.5546650616433608
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 123.64,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 124.16
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.0,
+                    "norm_ioa": 0.0,
+                    "norm_start": 0.0,
+                    "proposal": {
+                        "start": 129,
+                        "end": 130,
+                        "score": 0.5527711847491359
+                    },
+                    "hit_gts": {}
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.24999999999999445,
+                    "norm_ioa": 0.533333333333327,
+                    "norm_start": 0.6800000000000068,
+                    "proposal": {
+                        "start": 180,
+                        "end": 181,
+                        "score": 0.5491163425112653
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 180.68,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 181.28
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.09859154929576591,
+                    "norm_ioa": 0.1320754716981036,
+                    "norm_start": -1.839999999999975,
+                    "proposal": {
+                        "start": 290,
+                        "end": 291,
+                        "score": 0.547082320260115
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 288.16,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 290.28
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.28125000000001665,
+                    "norm_ioa": 0.5625000000000333,
+                    "norm_start": 0.6399999999999864,
+                    "proposal": {
+                        "start": 301,
+                        "end": 302,
+                        "score": 0.5407180693761721
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 301.64,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 302.28
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.21212121212121407,
+                    "norm_ioa": 0.466666666666673,
+                    "norm_start": -0.3199999999999932,
+                    "proposal": {
+                        "start": 181,
+                        "end": 182,
+                        "score": 0.5378493327734638
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 180.68,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 181.28
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.0,
+                    "norm_ioa": 0.0,
+                    "norm_start": 0.0,
+                    "proposal": {
+                        "start": 58,
+                        "end": 59,
+                        "score": 0.5372814081291551
+                    },
+                    "hit_gts": {}
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.18918918918919125,
+                    "norm_ioa": 0.36842105263158487,
+                    "norm_start": -0.47999999999998977,
+                    "proposal": {
+                        "start": 187,
+                        "end": 188,
+                        "score": 0.5354101765527365
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 186.52,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 187.28
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.02222222222223345,
+                    "norm_ioa": 0.047619047619070175,
+                    "norm_start": -0.8000000000000114,
+                    "proposal": {
+                        "start": 304,
+                        "end": 305,
+                        "score": 0.5323267950660857
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 303.2,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 304.04
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.20588235294115434,
+                    "norm_ioa": 0.4374999999999667,
+                    "norm_start": -0.36000000000001364,
+                    "proposal": {
+                        "start": 302,
+                        "end": 303,
+                        "score": 0.5315445061980084
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 301.64,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 302.28
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.6399999999999864,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.3199999999999932,
+                    "proposal": {
+                        "start": 306,
+                        "end": 307,
+                        "score": 0.5310999364182808
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 306.32,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 306.96
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.025000000000012436,
+                    "norm_ioa": 0.06250000000002776,
+                    "norm_start": 0.9599999999999795,
+                    "proposal": {
+                        "start": 307,
+                        "end": 308,
+                        "score": 0.5310307883454136
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 307.96,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 308.6
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.11428571428571138,
+                    "norm_ioa": 0.2857142857142785,
+                    "norm_start": 0.8400000000000034,
+                    "proposal": {
+                        "start": 249,
+                        "end": 250,
+                        "score": 0.5285023193509439
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 249.84,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 250.4
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.3103448275862073,
+                    "norm_ioa": 0.6923076923076965,
+                    "norm_start": 0.6400000000000006,
+                    "proposal": {
+                        "start": 123,
+                        "end": 124,
+                        "score": 0.5275287106003959
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 123.64,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 124.16
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.29032258064516203,
+                    "norm_ioa": 0.6000000000000048,
+                    "norm_start": 0.6400000000000006,
+                    "proposal": {
+                        "start": 118,
+                        "end": 119,
+                        "score": 0.5250142725032787
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 118.64,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 119.24
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.3199999999999932,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.36000000000001364,
+                    "proposal": {
+                        "start": 267,
+                        "end": 269,
+                        "score": 0.5246654334982881
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 267.72,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 268.36
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.7199999999999704,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.160000000000025,
+                    "proposal": {
+                        "start": 292,
+                        "end": 293,
+                        "score": 0.5234275725303956
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 292.16,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 292.88
+                    }
+                },
+                {
+                    "label": 6,
+                    "norm_iou": 0.799999999999983,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.0800000000000125,
+                    "proposal": {
+                        "start": 248,
+                        "end": 249,
+                        "score": 0.5197476151509208
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "挑"
+                        ],
+                        "start_id": 248.08,
+                        "label_ids": [
+                            6
+                        ],
+                        "end_id": 248.88
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.15624999999999098,
+                    "norm_ioa": 0.41666666666665186,
+                    "norm_start": -0.28000000000000114,
+                    "proposal": {
+                        "start": 184,
+                        "end": 185,
+                        "score": 0.5171873986371653
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 183.72,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 184.2
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.02631578947369799,
+                    "norm_ioa": 0.07142857142860769,
+                    "norm_start": -0.5199999999999818,
+                    "proposal": {
+                        "start": 312,
+                        "end": 313,
+                        "score": 0.5165004747499198
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 311.48,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 312.04
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.20588235294115434,
+                    "norm_ioa": 0.4374999999999667,
+                    "norm_start": 0.7200000000000273,
+                    "proposal": {
+                        "start": 267,
+                        "end": 268,
+                        "score": 0.5122637794698923
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 267.72,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 268.36
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.23999999999999488,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.4200000000000017,
+                    "proposal": {
+                        "start": 84,
+                        "end": 86,
+                        "score": 0.5108870664881694
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 84.84,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 85.32
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.025000000000012436,
+                    "norm_ioa": 0.06250000000002776,
+                    "norm_start": 0.9599999999999795,
+                    "proposal": {
+                        "start": 296,
+                        "end": 297,
+                        "score": 0.5105543034358596
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 296.96,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 297.6
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.04651162790698404,
+                    "norm_ioa": 0.10000000000001422,
+                    "norm_start": -0.7199999999999989,
+                    "proposal": {
+                        "start": 226,
+                        "end": 227,
+                        "score": 0.5083121389695646
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 225.28,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 226.08
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.5,
+                    "norm_ioa": 0.7499999999999978,
+                    "norm_start": 0.3999999999999986,
+                    "proposal": {
+                        "start": 59,
+                        "end": 60,
+                        "score": 0.5061246448700665
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 59.4,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 60.2
+                    }
+                },
+                {
+                    "label": 2,
+                    "norm_iou": 0.297297297297295,
+                    "norm_ioa": 0.478260869565214,
+                    "norm_start": 0.5600000000000023,
+                    "proposal": {
+                        "start": 81,
+                        "end": 82,
+                        "score": 0.5041172896819016
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "控制"
+                        ],
+                        "start_id": 81.56,
+                        "label_ids": [
+                            2
+                        ],
+                        "end_id": 82.48
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.3448275862068968,
+                    "norm_ioa": 0.7142857142857143,
+                    "norm_start": 0.5999999999999996,
+                    "proposal": {
+                        "start": 10,
+                        "end": 11,
+                        "score": 0.5013193501899718
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 10.6,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 11.16
+                    }
+                }
+            ]
+        },
+        {
+            "url": "c72a474ffd1d4be28065cea7818be01f.mp4",
+            "mode": "validation",
+            "total_frames": 8751,
+            "num_gts": 30,
+            "num_proposals": 30,
+            "proposal_actions": [
+                {
+                    "label": 0,
+                    "norm_iou": 0.0,
+                    "norm_ioa": 0.0,
+                    "norm_start": 0.0,
+                    "proposal": {
+                        "start": 166,
+                        "end": 167,
+                        "score": 0.7399055546732011
+                    },
+                    "hit_gts": {}
+                },
+                {
+                    "label": 2,
+                    "norm_iou": 0.519999999999996,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.28000000000000114,
+                    "proposal": {
+                        "start": 99,
+                        "end": 100,
+                        "score": 0.7108299332446855
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "控制"
+                        ],
+                        "start_id": 99.28,
+                        "label_ids": [
+                            2
+                        ],
+                        "end_id": 99.8
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.0,
+                    "norm_ioa": 0.0,
+                    "norm_start": 0.0,
+                    "proposal": {
+                        "start": 344,
+                        "end": 345,
+                        "score": 0.6749626304757856
+                    },
+                    "hit_gts": {}
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.8076923076923116,
+                    "norm_ioa": 0.9545454545454557,
+                    "norm_start": 0.1599999999999966,
+                    "proposal": {
+                        "start": 58,
+                        "end": 59,
+                        "score": 0.6722722935034698
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 58.16,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 59.04
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.06756756756756867,
+                    "norm_ioa": 0.17241379310345123,
+                    "norm_start": -0.4799999999999969,
+                    "proposal": {
+                        "start": 121,
+                        "end": 123,
+                        "score": 0.6541329781859142
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 120.04,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 121.2
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.0,
+                    "norm_ioa": 0.0,
+                    "norm_start": 0.0,
+                    "proposal": {
+                        "start": 344,
+                        "end": 345,
+                        "score": 0.6490822096880201
+                    },
+                    "hit_gts": {}
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.7352941176470669,
+                    "norm_ioa": 0.7352941176470669,
+                    "norm_start": -0.3199999999999932,
+                    "proposal": {
+                        "start": 136,
+                        "end": 137,
+                        "score": 0.6341500726442836
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 135.68,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 137.04
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.6000000000000048,
+                    "norm_ioa": 0.7826086956521833,
+                    "norm_start": 0.28000000000000114,
+                    "proposal": {
+                        "start": 213,
+                        "end": 214,
+                        "score": 0.6288009985196312
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 213.28,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 214.2
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.23684210526315702,
+                    "norm_ioa": 0.40909090909090723,
+                    "norm_start": 0.6400000000000006,
+                    "proposal": {
+                        "start": 37,
+                        "end": 38,
+                        "score": 0.628171698493215
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 37.64,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 38.52
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.10256410256410023,
+                    "norm_ioa": 0.22222222222221782,
+                    "norm_start": -0.5600000000000023,
+                    "proposal": {
+                        "start": 188,
+                        "end": 189,
+                        "score": 0.624379779560369
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 187.44,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 188.16
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.6399999999999864,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.12000000000000455,
+                    "proposal": {
+                        "start": 276,
+                        "end": 277,
+                        "score": 0.616843330157136
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "摆短"
+                        ],
+                        "start_id": 276.12,
+                        "label_ids": [
+                            0
+                        ],
+                        "end_id": 276.76
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.23076923076923916,
+                    "norm_ioa": 0.391304347826095,
+                    "norm_start": 0.6399999999999864,
+                    "proposal": {
+                        "start": 298,
+                        "end": 299,
+                        "score": 0.6145951156591223
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 298.64,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 299.56
+                    }
+                },
+                {
+                    "label": 5,
+                    "norm_iou": 0.513513513513501,
+                    "norm_ioa": 0.6129032258064397,
+                    "norm_start": 0.2400000000000091,
+                    "proposal": {
+                        "start": 300,
+                        "end": 301,
+                        "score": 0.6109194484217311
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拧"
+                        ],
+                        "start_id": 300.24,
+                        "label_ids": [
+                            5
+                        ],
+                        "end_id": 301.48
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.7307692307692276,
+                    "norm_ioa": 0.9500000000000088,
+                    "norm_start": -0.03999999999999204,
+                    "proposal": {
+                        "start": 226,
+                        "end": 227,
+                        "score": 0.6082968961619577
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 225.96,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 226.76
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.4827586206896586,
+                    "norm_ioa": 0.7777777777777821,
+                    "norm_start": 0.4399999999999977,
+                    "proposal": {
+                        "start": 187,
+                        "end": 188,
+                        "score": 0.6067847690101132
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 187.44,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 188.16
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.10204081632653239,
+                    "norm_ioa": 0.17241379310345123,
+                    "norm_start": -0.9599999999999937,
+                    "proposal": {
+                        "start": 121,
+                        "end": 122,
+                        "score": 0.6001870516990874
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 120.04,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 121.2
+                    }
+                },
+                {
+                    "label": 5,
+                    "norm_iou": 0.513513513513501,
+                    "norm_ioa": 0.6129032258064397,
+                    "norm_start": 0.2400000000000091,
+                    "proposal": {
+                        "start": 300,
+                        "end": 301,
+                        "score": 0.5933897373305187
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拧"
+                        ],
+                        "start_id": 300.24,
+                        "label_ids": [
+                            5
+                        ],
+                        "end_id": 301.48
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.0,
+                    "norm_ioa": 0.0,
+                    "norm_start": 0.0,
+                    "proposal": {
+                        "start": 122,
+                        "end": 123,
+                        "score": 0.5925160620172103
+                    },
+                    "hit_gts": {}
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.35999999999999943,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.21999999999999886,
+                    "proposal": {
+                        "start": 187,
+                        "end": 189,
+                        "score": 0.578729305148928
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 187.44,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 188.16
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.6000000000000048,
+                    "norm_ioa": 0.7826086956521833,
+                    "norm_start": 0.28000000000000114,
+                    "proposal": {
+                        "start": 213,
+                        "end": 214,
+                        "score": 0.5774026115781814
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 213.28,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 214.2
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.0,
+                    "norm_ioa": 0.0,
+                    "norm_start": 0.0,
+                    "proposal": {
+                        "start": 166,
+                        "end": 167,
+                        "score": 0.5534830392201151
+                    },
+                    "hit_gts": {}
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.45161290322581016,
+                    "norm_ioa": 0.7000000000000053,
+                    "norm_start": 0.4399999999999977,
+                    "proposal": {
+                        "start": 81,
+                        "end": 82,
+                        "score": 0.5507106091310969
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 81.44,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 82.24
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.7999999999999929,
+                    "norm_ioa": 0.8275862068965487,
+                    "norm_start": 0.04000000000000625,
+                    "proposal": {
+                        "start": 120,
+                        "end": 121,
+                        "score": 0.5387529436614997
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 120.04,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 121.2
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.23076923076923916,
+                    "norm_ioa": 0.391304347826095,
+                    "norm_start": 0.6399999999999864,
+                    "proposal": {
+                        "start": 298,
+                        "end": 299,
+                        "score": 0.5375712361924394
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 298.64,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 299.56
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.7352941176470669,
+                    "norm_ioa": 0.7352941176470669,
+                    "norm_start": -0.3199999999999932,
+                    "proposal": {
+                        "start": 136,
+                        "end": 137,
+                        "score": 0.5369402334638733
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 135.68,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 137.04
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.10256410256410023,
+                    "norm_ioa": 0.22222222222221782,
+                    "norm_start": -0.5600000000000023,
+                    "proposal": {
+                        "start": 188,
+                        "end": 189,
+                        "score": 0.5276192669425341
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 187.44,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 188.16
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.8000000000000114,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.0,
+                    "proposal": {
+                        "start": 212,
+                        "end": 213,
+                        "score": 0.5260802334779296
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "摆短"
+                        ],
+                        "start_id": 212.0,
+                        "label_ids": [
+                            0
+                        ],
+                        "end_id": 212.8
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.3999999999999915,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.480000000000004,
+                    "proposal": {
+                        "start": 98,
+                        "end": 99,
+                        "score": 0.5168747524638317
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 98.48,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 98.88
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.5200000000000102,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.23999999999999488,
+                    "proposal": {
+                        "start": 97,
+                        "end": 98,
+                        "score": 0.5081093347385583
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "摆短"
+                        ],
+                        "start_id": 97.24,
+                        "label_ids": [
+                            0
+                        ],
+                        "end_id": 97.76
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.38235294117647306,
+                    "norm_ioa": 0.5909090909090927,
+                    "norm_start": -0.35999999999999943,
+                    "proposal": {
+                        "start": 38,
+                        "end": 39,
+                        "score": 0.5072504879712544
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 37.64,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 38.52
+                    }
+                }
+            ]
+        },
+        {
+            "url": "570c2fd25ded43f3a9bdd002b0c4d6ab.mp4",
+            "mode": "validation",
+            "total_frames": 8996,
+            "num_gts": 27,
+            "num_proposals": 16,
+            "proposal_actions": [
+                {
+                    "label": 1,
+                    "norm_iou": 0.09090909090909483,
+                    "norm_ioa": 0.2727272727272845,
+                    "norm_start": -0.3199999999999932,
+                    "proposal": {
+                        "start": 117,
+                        "end": 118,
+                        "score": 0.6704371566389018
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 116.68,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 117.12
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.5476190476190488,
+                    "norm_ioa": 0.5750000000000005,
+                    "norm_start": 0.0799999999999983,
+                    "proposal": {
+                        "start": 20,
+                        "end": 21,
+                        "score": 0.6353768046345593
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 20.08,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 21.68
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.12499999999999334,
+                    "norm_ioa": 0.24999999999999112,
+                    "norm_start": -0.5999999999999943,
+                    "proposal": {
+                        "start": 168,
+                        "end": 169,
+                        "score": 0.6129166568171146
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "摆短"
+                        ],
+                        "start_id": 167.4,
+                        "label_ids": [
+                            0
+                        ],
+                        "end_id": 168.2
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.5555555555555565,
+                    "norm_ioa": 0.5555555555555565,
+                    "norm_start": -0.6400000000000006,
+                    "proposal": {
+                        "start": 115,
+                        "end": 116,
+                        "score": 0.6114854213853227
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 114.36,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 116.16
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.13461538461538528,
+                    "norm_ioa": 0.2058823529411774,
+                    "norm_start": -1.0799999999999983,
+                    "proposal": {
+                        "start": 90,
+                        "end": 91,
+                        "score": 0.6063516348960732
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 88.92,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 90.28
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.7352941176470591,
+                    "norm_ioa": 0.7352941176470591,
+                    "norm_start": -0.0799999999999983,
+                    "proposal": {
+                        "start": 89,
+                        "end": 90,
+                        "score": 0.6027764162582553
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 88.92,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 90.28
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.888888888888886,
+                    "norm_ioa": 0.9230769230769126,
+                    "norm_start": 0.03999999999999204,
+                    "proposal": {
+                        "start": 176,
+                        "end": 177,
+                        "score": 0.5679160696727601
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 176.04,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 177.08
+                    }
+                },
+                {
+                    "label": 3,
+                    "norm_iou": 0.04081632653061846,
+                    "norm_ioa": 0.07692307692308743,
+                    "norm_start": -0.960000000000008,
+                    "proposal": {
+                        "start": 177,
+                        "end": 178,
+                        "score": 0.5541925694370012
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "侧身拉"
+                        ],
+                        "start_id": 176.04,
+                        "label_ids": [
+                            3
+                        ],
+                        "end_id": 177.08
+                    }
+                },
+                {
+                    "label": 2,
+                    "norm_iou": 0.6756756756756803,
+                    "norm_ioa": 0.6756756756756803,
+                    "norm_start": 0.0,
+                    "proposal": {
+                        "start": 172,
+                        "end": 173,
+                        "score": 0.5533726482901588
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "控制"
+                        ],
+                        "start_id": 172.0,
+                        "label_ids": [
+                            2
+                        ],
+                        "end_id": 173.48
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.7352941176470591,
+                    "norm_ioa": 0.7352941176470591,
+                    "norm_start": -0.0799999999999983,
+                    "proposal": {
+                        "start": 89,
+                        "end": 90,
+                        "score": 0.5490176719088654
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 88.92,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 90.28
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.04878048780488608,
+                    "norm_ioa": 0.11111111111112866,
+                    "norm_start": -0.6399999999999864,
+                    "proposal": {
+                        "start": 147,
+                        "end": 148,
+                        "score": 0.5380579570764675
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "摆短"
+                        ],
+                        "start_id": 146.36,
+                        "label_ids": [
+                            0
+                        ],
+                        "end_id": 147.08
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.12499999999999334,
+                    "norm_ioa": 0.24999999999999112,
+                    "norm_start": -0.5999999999999943,
+                    "proposal": {
+                        "start": 168,
+                        "end": 169,
+                        "score": 0.5294174908068533
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "摆短"
+                        ],
+                        "start_id": 167.4,
+                        "label_ids": [
+                            0
+                        ],
+                        "end_id": 168.2
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.7592592592592607,
+                    "norm_ioa": 0.9111111111111129,
+                    "norm_start": 0.17999999999999972,
+                    "proposal": {
+                        "start": 114,
+                        "end": 116,
+                        "score": 0.5259407088833694
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 114.36,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 116.16
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.3432835820895529,
+                    "norm_ioa": 0.5750000000000005,
+                    "norm_start": 0.5399999999999991,
+                    "proposal": {
+                        "start": 19,
+                        "end": 21,
+                        "score": 0.5141648814116778
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 20.08,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 21.68
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.5476190476190488,
+                    "norm_ioa": 0.5750000000000005,
+                    "norm_start": 0.0799999999999983,
+                    "proposal": {
+                        "start": 20,
+                        "end": 21,
+                        "score": 0.5109987872481089
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 20.08,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 21.68
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.12499999999999334,
+                    "norm_ioa": 0.24999999999999112,
+                    "norm_start": -0.5999999999999943,
+                    "proposal": {
+                        "start": 168,
+                        "end": 169,
+                        "score": 0.5055929396201984
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "摆短"
+                        ],
+                        "start_id": 167.4,
+                        "label_ids": [
+                            0
+                        ],
+                        "end_id": 168.2
+                    }
+                }
+            ]
+        },
+        {
+            "url": "62de19ceee45456996c278450c0610f9.mp4",
+            "mode": "validation",
+            "total_frames": 8751,
+            "num_gts": 30,
+            "num_proposals": 27,
+            "proposal_actions": [
+                {
+                    "label": 5,
+                    "norm_iou": 0.6800000000000033,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.0799999999999983,
+                    "proposal": {
+                        "start": 22,
+                        "end": 23,
+                        "score": 0.6774363691304729
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拧"
+                        ],
+                        "start_id": 22.08,
+                        "label_ids": [
+                            5
+                        ],
+                        "end_id": 22.76
+                    }
+                },
+                {
+                    "label": 5,
+                    "norm_iou": 0.5862068965517317,
+                    "norm_ioa": 0.8095238095238143,
+                    "norm_start": -0.1599999999999966,
+                    "proposal": {
+                        "start": 75,
+                        "end": 76,
+                        "score": 0.6769735588478614
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拧"
+                        ],
+                        "start_id": 74.84,
+                        "label_ids": [
+                            5
+                        ],
+                        "end_id": 75.68
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.5999999999999943,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.4000000000000057,
+                    "proposal": {
+                        "start": 192,
+                        "end": 193,
+                        "score": 0.6625087907569032
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 192.4,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 193.0
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.5999999999999943,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.4000000000000057,
+                    "proposal": {
+                        "start": 192,
+                        "end": 193,
+                        "score": 0.6494438078823943
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 192.4,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 193.0
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.6944444444444455,
+                    "norm_ioa": 0.6944444444444455,
+                    "norm_start": -0.19999999999998863,
+                    "proposal": {
+                        "start": 304,
+                        "end": 305,
+                        "score": 0.6323187239436906
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 303.8,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 305.24
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.4651162790697661,
+                    "norm_ioa": 0.5263157894736837,
+                    "norm_start": 0.20000000000000284,
+                    "proposal": {
+                        "start": 106,
+                        "end": 107,
+                        "score": 0.6283149186796525
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 106.2,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 107.72
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.6756756756756673,
+                    "norm_ioa": 0.6756756756756673,
+                    "norm_start": -0.4399999999999977,
+                    "proposal": {
+                        "start": 330,
+                        "end": 331,
+                        "score": 0.6272833254944683
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 329.56,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 331.04
+                    }
+                },
+                {
+                    "label": 5,
+                    "norm_iou": 0.09523809523809282,
+                    "norm_ioa": 0.19047619047618564,
+                    "norm_start": 0.8400000000000034,
+                    "proposal": {
+                        "start": 74,
+                        "end": 75,
+                        "score": 0.6224738404680954
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拧"
+                        ],
+                        "start_id": 74.84,
+                        "label_ids": [
+                            5
+                        ],
+                        "end_id": 75.68
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.4651162790697661,
+                    "norm_ioa": 0.5263157894736837,
+                    "norm_start": 0.20000000000000284,
+                    "proposal": {
+                        "start": 106,
+                        "end": 107,
+                        "score": 0.6104340540570855
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 106.2,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 107.72
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.0,
+                    "norm_ioa": 0.0,
+                    "norm_start": 0.0,
+                    "proposal": {
+                        "start": 42,
+                        "end": 43,
+                        "score": 0.6093095277049632
+                    },
+                    "hit_gts": {}
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.6944444444444455,
+                    "norm_ioa": 0.6944444444444455,
+                    "norm_start": -0.19999999999998863,
+                    "proposal": {
+                        "start": 304,
+                        "end": 305,
+                        "score": 0.6021241844141533
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 303.8,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 305.24
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.5749999999999942,
+                    "norm_ioa": 0.6052631578947358,
+                    "norm_start": -0.5999999999999943,
+                    "proposal": {
+                        "start": 234,
+                        "end": 235,
+                        "score": 0.5959954896045433
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 233.4,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 234.92
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.8846153846153846,
+                    "norm_ioa": 0.9583333333333333,
+                    "norm_start": -0.04,
+                    "proposal": {
+                        "start": 0,
+                        "end": 1,
+                        "score": 0.5959528334968065
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": -0.04,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 0.92
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.21568627450980063,
+                    "norm_ioa": 0.2972972972972921,
+                    "norm_start": 0.5600000000000023,
+                    "proposal": {
+                        "start": 329,
+                        "end": 330,
+                        "score": 0.5950517200896288
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 329.56,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 331.04
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.5813953488372097,
+                    "norm_ioa": 0.5813953488372097,
+                    "norm_start": -0.4000000000000057,
+                    "proposal": {
+                        "start": 214,
+                        "end": 215,
+                        "score": 0.5888363223047973
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 213.6,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 215.32
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.09999999999999432,
+                    "norm_ioa": 0.16666666666665877,
+                    "norm_start": 0.8000000000000114,
+                    "proposal": {
+                        "start": 134,
+                        "end": 135,
+                        "score": 0.5590932612295269
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 134.8,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 136.0
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.02702702702704052,
+                    "norm_ioa": 0.07692307692311055,
+                    "norm_start": -0.4800000000000182,
+                    "proposal": {
+                        "start": 274,
+                        "end": 275,
+                        "score": 0.5587315810817622
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 273.52,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 274.04
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.31249999999999906,
+                    "norm_ioa": 0.39473684210526416,
+                    "norm_start": 0.4000000000000057,
+                    "proposal": {
+                        "start": 233,
+                        "end": 234,
+                        "score": 0.5543694669324881
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 233.4,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 234.92
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.01639344262295922,
+                    "norm_ioa": 0.02702702702704052,
+                    "norm_start": -1.4399999999999977,
+                    "proposal": {
+                        "start": 331,
+                        "end": 332,
+                        "score": 0.5470770465786203
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 329.56,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 331.04
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.16666666666665877,
+                    "norm_ioa": 0.5,
+                    "norm_start": -0.19999999999998863,
+                    "proposal": {
+                        "start": 306,
+                        "end": 307,
+                        "score": 0.5455875882445246
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 305.8,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 306.2
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.6034482758620732,
+                    "norm_ioa": 0.8139534883720969,
+                    "norm_start": 0.29999999999999716,
+                    "proposal": {
+                        "start": 213,
+                        "end": 215,
+                        "score": 0.5351938462047424
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 213.6,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 215.32
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.6551724137930814,
+                    "norm_ioa": 0.8260869565217149,
+                    "norm_start": 0.2400000000000091,
+                    "proposal": {
+                        "start": 256,
+                        "end": 257,
+                        "score": 0.5349990310367013
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 256.24,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 257.16
+                    }
+                },
+                {
+                    "label": 2,
+                    "norm_iou": 0.1500000000000062,
+                    "norm_ioa": 0.28571428571429536,
+                    "norm_start": -0.5999999999999943,
+                    "proposal": {
+                        "start": 165,
+                        "end": 166,
+                        "score": 0.5338901623263463
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "控制"
+                        ],
+                        "start_id": 164.4,
+                        "label_ids": [
+                            2
+                        ],
+                        "end_id": 165.24
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.6923076923076965,
+                    "norm_ioa": 0.9473684210526414,
+                    "norm_start": 0.28000000000000114,
+                    "proposal": {
+                        "start": 163,
+                        "end": 164,
+                        "score": 0.5259638452988805
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "摆短"
+                        ],
+                        "start_id": 163.28,
+                        "label_ids": [
+                            0
+                        ],
+                        "end_id": 164.04
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.29032258064517014,
+                    "norm_ioa": 0.6,
+                    "norm_start": 0.6399999999999864,
+                    "proposal": {
+                        "start": 270,
+                        "end": 271,
+                        "score": 0.5253656360361934
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "摆短"
+                        ],
+                        "start_id": 270.64,
+                        "label_ids": [
+                            0
+                        ],
+                        "end_id": 271.24
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.6944444444444455,
+                    "norm_ioa": 0.6944444444444455,
+                    "norm_start": -0.19999999999998863,
+                    "proposal": {
+                        "start": 304,
+                        "end": 305,
+                        "score": 0.5249538321516266
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 303.8,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 305.24
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.5813953488372097,
+                    "norm_ioa": 0.5813953488372097,
+                    "norm_start": -0.4000000000000057,
+                    "proposal": {
+                        "start": 214,
+                        "end": 215,
+                        "score": 0.5109123008658722
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 213.6,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 215.32
+                    }
+                }
+            ]
+        },
+        {
+            "url": "56ca4d63dcd24ee3875ac7a76546b4c3.mp4",
+            "mode": "validation",
+            "total_frames": 8908,
+            "num_gts": 31,
+            "num_proposals": 21,
+            "proposal_actions": [
+                {
+                    "label": 7,
+                    "norm_iou": 0.29411764705880383,
+                    "norm_ioa": 0.5263157894736606,
+                    "norm_start": -0.36000000000001364,
+                    "proposal": {
+                        "start": 294,
+                        "end": 295,
+                        "score": 0.7462302506124393
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 293.64,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 294.4
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.25714285714287105,
+                    "norm_ioa": 0.4736842105263394,
+                    "norm_start": 0.6399999999999864,
+                    "proposal": {
+                        "start": 293,
+                        "end": 294,
+                        "score": 0.6697665512240161
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 293.64,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 294.4
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.35483870967741493,
+                    "norm_ioa": 0.6470588235294019,
+                    "norm_start": 0.5600000000000023,
+                    "proposal": {
+                        "start": 203,
+                        "end": 204,
+                        "score": 0.6653117140404669
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 203.56,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 204.24
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.29411764705880383,
+                    "norm_ioa": 0.5263157894736606,
+                    "norm_start": -0.36000000000001364,
+                    "proposal": {
+                        "start": 294,
+                        "end": 295,
+                        "score": 0.6645298951868401
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 293.64,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 294.4
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.3529411764705913,
+                    "norm_ioa": 0.5714285714285738,
+                    "norm_start": 0.519999999999996,
+                    "proposal": {
+                        "start": 106,
+                        "end": 107,
+                        "score": 0.6632808924217166
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 106.52,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 107.36
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.296296296296297,
+                    "norm_ioa": 0.8000000000000036,
+                    "norm_start": 0.6799999999999997,
+                    "proposal": {
+                        "start": 99,
+                        "end": 101,
+                        "score": 0.64892589576499
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 100.36,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 101.16
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.3799999999999999,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.6200000000000001,
+                    "proposal": {
+                        "start": 3,
+                        "end": 5,
+                        "score": 0.6276982387700809
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 4.24,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 5.0
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.296296296296297,
+                    "norm_ioa": 0.8000000000000036,
+                    "norm_start": 0.6799999999999997,
+                    "proposal": {
+                        "start": 99,
+                        "end": 101,
+                        "score": 0.6046471073053753
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 100.36,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 101.16
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.5517241379310366,
+                    "norm_ioa": 0.8000000000000036,
+                    "norm_start": 0.35999999999999943,
+                    "proposal": {
+                        "start": 100,
+                        "end": 101,
+                        "score": 0.5962457361654135
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 100.36,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 101.16
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.05555555555556433,
+                    "norm_ioa": 0.15384615384617487,
+                    "norm_start": -0.4399999999999977,
+                    "proposal": {
+                        "start": 145,
+                        "end": 146,
+                        "score": 0.5950047275870022
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 144.56,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 145.08
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.3529411764705913,
+                    "norm_ioa": 0.5714285714285738,
+                    "norm_start": 0.519999999999996,
+                    "proposal": {
+                        "start": 106,
+                        "end": 107,
+                        "score": 0.5859253806461144
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 106.52,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 107.36
+                    }
+                },
+                {
+                    "label": 2,
+                    "norm_iou": 0.7599999999999909,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.20000000000000284,
+                    "proposal": {
+                        "start": 105,
+                        "end": 106,
+                        "score": 0.5805805417597392
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "控制"
+                        ],
+                        "start_id": 105.2,
+                        "label_ids": [
+                            2
+                        ],
+                        "end_id": 105.96
+                    }
+                },
+                {
+                    "label": 5,
+                    "norm_iou": 0.4399999999999977,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.480000000000004,
+                    "proposal": {
+                        "start": 73,
+                        "end": 74,
+                        "score": 0.5756013816848224
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拧"
+                        ],
+                        "start_id": 73.48,
+                        "label_ids": [
+                            5
+                        ],
+                        "end_id": 73.92
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.3000000000000002,
+                    "norm_ioa": 0.6428571428571429,
+                    "norm_start": 0.6399999999999997,
+                    "proposal": {
+                        "start": 5,
+                        "end": 6,
+                        "score": 0.5751702588473429
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 5.64,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 6.2
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.16666666666667324,
+                    "norm_ioa": 0.3529411764705981,
+                    "norm_start": -0.4399999999999977,
+                    "proposal": {
+                        "start": 204,
+                        "end": 205,
+                        "score": 0.5686574005661622
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 203.56,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 204.24
+                    }
+                },
+                {
+                    "label": 5,
+                    "norm_iou": 0.6400000000000006,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.3200000000000003,
+                    "proposal": {
+                        "start": 50,
+                        "end": 51,
+                        "score": 0.5644022780322692
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拧"
+                        ],
+                        "start_id": 50.32,
+                        "label_ids": [
+                            5
+                        ],
+                        "end_id": 50.96
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.25714285714287105,
+                    "norm_ioa": 0.4736842105263394,
+                    "norm_start": 0.6399999999999864,
+                    "proposal": {
+                        "start": 293,
+                        "end": 294,
+                        "score": 0.5631492003204522
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 293.64,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 294.4
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.1500000000000071,
+                    "norm_ioa": 0.4736842105263394,
+                    "norm_start": 0.8199999999999932,
+                    "proposal": {
+                        "start": 292,
+                        "end": 294,
+                        "score": 0.5613227609950344
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 293.64,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 294.4
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.0,
+                    "norm_ioa": 0.0,
+                    "norm_start": 0.0,
+                    "proposal": {
+                        "start": 3,
+                        "end": 4,
+                        "score": 0.561123177854366
+                    },
+                    "hit_gts": {}
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.20253164556962064,
+                    "norm_ioa": 0.8000000000000036,
+                    "norm_start": 0.7866666666666665,
+                    "proposal": {
+                        "start": 98,
+                        "end": 101,
+                        "score": 0.5249239535194652
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 100.36,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 101.16
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.3000000000000002,
+                    "norm_ioa": 0.6428571428571429,
+                    "norm_start": 0.6399999999999997,
+                    "proposal": {
+                        "start": 5,
+                        "end": 6,
+                        "score": 0.5147006883590726
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 5.64,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 6.2
+                    }
+                }
+            ]
+        },
+        {
+            "url": "30a3c9f907c947229e576a6d59afe7e9.mp4",
+            "mode": "validation",
+            "total_frames": 8985,
+            "num_gts": 20,
+            "num_proposals": 15,
+            "proposal_actions": [
+                {
+                    "label": 7,
+                    "norm_iou": 0.4871794871794806,
+                    "norm_ioa": 0.5757575757575718,
+                    "norm_start": 0.2400000000000091,
+                    "proposal": {
+                        "start": 291,
+                        "end": 292,
+                        "score": 0.6316221845957181
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 291.24,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 292.56
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.6944444444444455,
+                    "norm_ioa": 0.6944444444444455,
+                    "norm_start": -0.28000000000000114,
+                    "proposal": {
+                        "start": 203,
+                        "end": 204,
+                        "score": 0.6200653994124189
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 202.72,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 204.16
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.0,
+                    "norm_ioa": 0.0,
+                    "norm_start": 0.0,
+                    "proposal": {
+                        "start": 174,
+                        "end": 175,
+                        "score": 0.6159520057894878
+                    },
+                    "hit_gts": {}
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.5853658536585463,
+                    "norm_ioa": 0.6000000000000071,
+                    "norm_start": -0.6399999999999864,
+                    "proposal": {
+                        "start": 185,
+                        "end": 186,
+                        "score": 0.6154499060377894
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 184.36,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 185.96
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.32653061224488966,
+                    "norm_ioa": 0.3999999999999929,
+                    "norm_start": 0.36000000000001364,
+                    "proposal": {
+                        "start": 184,
+                        "end": 185,
+                        "score": 0.5994098526633955
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 184.36,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 185.96
+                    }
+                },
+                {
+                    "label": 5,
+                    "norm_iou": 0.5555555555555848,
+                    "norm_ioa": 0.8823529411764952,
+                    "norm_start": 0.39999999999997726,
+                    "proposal": {
+                        "start": 324,
+                        "end": 325,
+                        "score": 0.5945065602038399
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拧"
+                        ],
+                        "start_id": 324.4,
+                        "label_ids": [
+                            5
+                        ],
+                        "end_id": 325.08
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.592592592592594,
+                    "norm_ioa": 0.8888888888888911,
+                    "norm_start": 0.35999999999999943,
+                    "proposal": {
+                        "start": 202,
+                        "end": 204,
+                        "score": 0.5888112042559394
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 202.72,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 204.16
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.28947368421052827,
+                    "norm_ioa": 0.45833333333334075,
+                    "norm_start": 0.5600000000000023,
+                    "proposal": {
+                        "start": 274,
+                        "end": 275,
+                        "score": 0.5873186856857056
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 274.56,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 275.52
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.4871794871794806,
+                    "norm_ioa": 0.5757575757575718,
+                    "norm_start": 0.2400000000000091,
+                    "proposal": {
+                        "start": 291,
+                        "end": 292,
+                        "score": 0.5798732974629435
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 291.24,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 292.56
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.0701754385964897,
+                    "norm_ioa": 0.11111111111110891,
+                    "norm_start": -1.2800000000000011,
+                    "proposal": {
+                        "start": 204,
+                        "end": 205,
+                        "score": 0.5534820894208837
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 202.72,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 204.16
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.18000000000000682,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.09999999999999432,
+                    "proposal": {
+                        "start": 235,
+                        "end": 237,
+                        "score": 0.5464479479428052
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 235.2,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 235.56
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.3181818181818211,
+                    "norm_ioa": 0.42424242424242814,
+                    "norm_start": -0.7599999999999909,
+                    "proposal": {
+                        "start": 292,
+                        "end": 293,
+                        "score": 0.5382393831957749
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 291.24,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 292.56
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.28947368421052827,
+                    "norm_ioa": 0.45833333333334075,
+                    "norm_start": 0.5600000000000023,
+                    "proposal": {
+                        "start": 274,
+                        "end": 275,
+                        "score": 0.5279384657042043
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 274.56,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 275.52
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.4358974358974396,
+                    "norm_ioa": 0.5483870967741951,
+                    "norm_start": -0.5600000000000023,
+                    "proposal": {
+                        "start": 352,
+                        "end": 353,
+                        "score": 0.5255077423379193
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 351.44,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 352.68
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.0,
+                    "norm_ioa": 0.0,
+                    "norm_start": 0.0,
+                    "proposal": {
+                        "start": 174,
+                        "end": 175,
+                        "score": 0.5119230065721081
+                    },
+                    "hit_gts": {}
+                }
+            ]
+        },
+        {
+            "url": "0e334273073e466f895b6b911c9589dc.mp4",
+            "mode": "validation",
+            "total_frames": 8992,
+            "num_gts": 13,
+            "num_proposals": 18,
+            "proposal_actions": [
+                {
+                    "label": 6,
+                    "norm_iou": 0.39999999999999525,
+                    "norm_ioa": 0.7058823529411838,
+                    "norm_start": 0.5200000000000102,
+                    "proposal": {
+                        "start": 187,
+                        "end": 188,
+                        "score": 0.718474778676941
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "挑"
+                        ],
+                        "start_id": 187.52,
+                        "label_ids": [
+                            6
+                        ],
+                        "end_id": 188.2
+                    }
+                },
+                {
+                    "label": 2,
+                    "norm_iou": 0.6800000000000068,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.2799999999999727,
+                    "proposal": {
+                        "start": 318,
+                        "end": 319,
+                        "score": 0.6935622063961365
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "控制"
+                        ],
+                        "start_id": 318.28,
+                        "label_ids": [
+                            2
+                        ],
+                        "end_id": 318.96
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.0,
+                    "norm_ioa": 0.0,
+                    "norm_start": 0.0,
+                    "proposal": {
+                        "start": 308,
+                        "end": 309,
+                        "score": 0.6348565296518085
+                    },
+                    "hit_gts": {}
+                },
+                {
+                    "label": 6,
+                    "norm_iou": 0.39999999999999525,
+                    "norm_ioa": 0.7058823529411838,
+                    "norm_start": 0.5200000000000102,
+                    "proposal": {
+                        "start": 187,
+                        "end": 188,
+                        "score": 0.6323525942125855
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "挑"
+                        ],
+                        "start_id": 187.52,
+                        "label_ids": [
+                            6
+                        ],
+                        "end_id": 188.2
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.0,
+                    "norm_ioa": 0.0,
+                    "norm_start": 0.0,
+                    "proposal": {
+                        "start": 51,
+                        "end": 52,
+                        "score": 0.5988914515564424
+                    },
+                    "hit_gts": {}
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.0,
+                    "norm_ioa": 0.0,
+                    "norm_start": 0.0,
+                    "proposal": {
+                        "start": 316,
+                        "end": 317,
+                        "score": 0.591768352461561
+                    },
+                    "hit_gts": {}
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.0,
+                    "norm_ioa": 0.0,
+                    "norm_start": 0.0,
+                    "proposal": {
+                        "start": 307,
+                        "end": 309,
+                        "score": 0.5853779325985362
+                    },
+                    "hit_gts": {}
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.024390243902451706,
+                    "norm_ioa": 0.05882352941179421,
+                    "norm_start": 0.9599999999999795,
+                    "proposal": {
+                        "start": 331,
+                        "end": 332,
+                        "score": 0.5795989018197998
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 331.96,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 332.64
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.0,
+                    "norm_ioa": 0.0,
+                    "norm_start": 0.0,
+                    "proposal": {
+                        "start": 307,
+                        "end": 309,
+                        "score": 0.5672425414715994
+                    },
+                    "hit_gts": {}
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.024390243902451706,
+                    "norm_ioa": 0.05882352941179421,
+                    "norm_start": 0.9599999999999795,
+                    "proposal": {
+                        "start": 331,
+                        "end": 332,
+                        "score": 0.5598425390852128
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 331.96,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 332.64
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.379999999999999,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.5199999999999996,
+                    "proposal": {
+                        "start": 51,
+                        "end": 53,
+                        "score": 0.5572153862106098
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 52.04,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 52.8
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.01515151515152298,
+                    "norm_ioa": 0.05882352941179421,
+                    "norm_start": 0.9799999999999898,
+                    "proposal": {
+                        "start": 330,
+                        "end": 332,
+                        "score": 0.5566942339970765
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 331.96,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 332.64
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.0,
+                    "norm_ioa": 0.0,
+                    "norm_start": 0.0,
+                    "proposal": {
+                        "start": 315,
+                        "end": 317,
+                        "score": 0.5545250322210151
+                    },
+                    "hit_gts": {}
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.3103448275862073,
+                    "norm_ioa": 0.6923076923076965,
+                    "norm_start": -0.1599999999999966,
+                    "proposal": {
+                        "start": 96,
+                        "end": 97,
+                        "score": 0.5426729852226923
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "摆短"
+                        ],
+                        "start_id": 95.84,
+                        "label_ids": [
+                            0
+                        ],
+                        "end_id": 96.36
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.6538461538461541,
+                    "norm_ioa": 0.9444444444444455,
+                    "norm_start": 0.3200000000000003,
+                    "proposal": {
+                        "start": 26,
+                        "end": 27,
+                        "score": 0.5333531115632496
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 26.32,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 27.04
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.0,
+                    "norm_ioa": 0.0,
+                    "norm_start": 0.0,
+                    "proposal": {
+                        "start": 43,
+                        "end": 44,
+                        "score": 0.5317062473945275
+                    },
+                    "hit_gts": {}
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.6153846153845901,
+                    "norm_ioa": 0.9411764705882057,
+                    "norm_start": -0.040000000000020464,
+                    "proposal": {
+                        "start": 332,
+                        "end": 333,
+                        "score": 0.5042349339268808
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 331.96,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 332.64
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.0,
+                    "norm_ioa": 0.0,
+                    "norm_start": 0.0,
+                    "proposal": {
+                        "start": 316,
+                        "end": 317,
+                        "score": 0.5037893052245865
+                    },
+                    "hit_gts": {}
+                }
+            ]
+        },
+        {
+            "url": "d59df01eb66b4805abf13cf093b55a2d.mp4",
+            "mode": "validation",
+            "total_frames": 8993,
+            "num_gts": 9,
+            "num_proposals": 6,
+            "proposal_actions": [
+                {
+                    "label": 7,
+                    "norm_iou": 0.33333333333333287,
+                    "norm_ioa": 0.5789473684210521,
+                    "norm_start": -0.3200000000000003,
+                    "proposal": {
+                        "start": 9,
+                        "end": 10,
+                        "score": 0.6144494983426214
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 8.68,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 9.44
+                    }
+                },
+                {
+                    "label": 1,
+                    "norm_iou": 0.8000000000000007,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.16000000000000014,
+                    "proposal": {
+                        "start": 10,
+                        "end": 11,
+                        "score": 0.5632147588778489
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "拉"
+                        ],
+                        "start_id": 10.16,
+                        "label_ids": [
+                            1
+                        ],
+                        "end_id": 10.96
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.0,
+                    "norm_ioa": 0.0,
+                    "norm_start": 0.0,
+                    "proposal": {
+                        "start": 116,
+                        "end": 117,
+                        "score": 0.5430295046986088
+                    },
+                    "hit_gts": {}
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.6400000000000006,
+                    "norm_ioa": 1.0,
+                    "norm_start": 0.23999999999999488,
+                    "proposal": {
+                        "start": 75,
+                        "end": 76,
+                        "score": 0.5368857858513921
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "摆短"
+                        ],
+                        "start_id": 75.24,
+                        "label_ids": [
+                            0
+                        ],
+                        "end_id": 75.88
+                    }
+                },
+                {
+                    "label": 0,
+                    "norm_iou": 0.09090909090908895,
+                    "norm_ioa": 0.2727272727272683,
+                    "norm_start": 0.8800000000000026,
+                    "proposal": {
+                        "start": 41,
+                        "end": 42,
+                        "score": 0.507662381709154
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "摆短"
+                        ],
+                        "start_id": 41.88,
+                        "label_ids": [
+                            0
+                        ],
+                        "end_id": 42.32
+                    }
+                },
+                {
+                    "label": 7,
+                    "norm_iou": 0.6486486486486427,
+                    "norm_ioa": 0.6666666666666634,
+                    "norm_start": 0.04000000000000625,
+                    "proposal": {
+                        "start": 114,
+                        "end": 115,
+                        "score": 0.503158657419712
+                    },
+                    "hit_gts": {
+                        "label_names": [
+                            "发球"
+                        ],
+                        "start_id": 114.04,
+                        "label_ids": [
+                            7
+                        ],
+                        "end_id": 115.48
+                    }
+                }
+            ]
+        }
+    ]
+}

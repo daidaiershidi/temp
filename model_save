@@ -1,0 +1,29 @@
+class Attention_net(nn.Module):
+    def __init__(self,in_c, out_c):
+        super(Attention_net, self).__init__()
+        self.K = torch.nn.Conv2d(in_channels=in_c, out_channels=out_c, kernel_size=3, stride=1, padding=1, bias=False)
+        self.Q = torch.nn.Conv2d(in_channels=in_c, out_channels=out_c, kernel_size=3, stride=1, padding=1, bias=False)
+        self.V = torch.nn.Conv2d(in_channels=in_c, out_channels=out_c, kernel_size=3, stride=1, padding=1, bias=False)
+        self.local_weight = torch.nn.Conv2d(in_channels=in_c, out_channels=out_c, kernel_size=1, stride=1, padding=0, bias=False)
+
+    def forward(self, x):
+        k = self.K(x)
+        v = self.V(x)
+        q = self.Q(x)
+
+        v_reshape = v.view(x.size(0), x.size(1),-1)
+        v_reshape = v_reshape.permute(0,2,1)
+        q_reshape = q.view(x.size(0), x.size(1),-1)
+        k_reshape = k.view(x.size(0), x.size(1),-1)
+        k_reshape = k_reshape.permute(0,2,1)
+
+        qv = torch.matmul(q_reshape, v_reshape)
+        attention = F.softmax(qv, dim=-1)
+
+        vector = torch.matmul(k_reshape, attention)
+        vector_reshape = vector.permute(0,2,1).contiguous()
+
+        O = vector_reshape.view(x.size(0), x.size(1), x.size(2), x.size(3))
+        out = torch.add(O, x)
+        out = self.local_weight(out)
+        return out
